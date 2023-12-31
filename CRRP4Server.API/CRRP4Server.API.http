@@ -1,0 +1,6 @@
+@CRRP4Server.API_HostAddress = http://localhost:5177
+
+GET {{CRRP4Server.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
