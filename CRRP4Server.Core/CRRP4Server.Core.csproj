@@ -10,8 +10,4 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CRRP4Server.Core\CRRP4Server.Core.csproj" />
-  </ItemGroup>
-
 </Project>
